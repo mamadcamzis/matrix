@@ -6,8 +6,8 @@
 # https://packaging.python.org/tutorials/packaging-projects/
 from setuptools import setup
 
-setup(name='matrix-camzis',
+setup(name='matrix_computation',
       version='0.1',
       description='Matrix comutations',
-      packages=['matrix-camzis'],
+      packages=['matrix_computation'],
       zip_safe=False)
