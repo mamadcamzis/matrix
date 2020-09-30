@@ -4,7 +4,8 @@ inverse of a matrix or adding matrix.
 
 # Installation 
 pip install matrix_computation
-python 
+
+$ python 
 >> from matrix_computation import Matrix
 
 
